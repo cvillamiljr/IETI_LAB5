@@ -129,7 +129,7 @@ export default function MiniDrawer() {
                         <MenuIcon />
                     </IconButton>
                     <Typography variant="h6" noWrap>
-                        Mini variant drawer
+                        My Task Planner
                     </Typography>
                 </Toolbar>
             </AppBar>
