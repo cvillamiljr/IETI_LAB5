@@ -31,11 +31,11 @@ const useStyles = then =>({
     },
     titleReady: {
         fontSize: 40,
-        color: "#012bff",
+        color: "#27ff01",
     },
     titleCompleted: {
         fontSize: 40,
-        color: "#3CCA0A",
+        color: "#0a3aca",
     },
 
 });
