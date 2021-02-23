@@ -35,7 +35,7 @@ export class Login extends React.Component{
                         <Avatar className="avatar">
                             <LockIcon />
                         </Avatar>
-                        <Typography variant="h2">Sign in</Typography>
+                        <Typography variant="h2">TaskPlanner</Typography>
                         <form className="form">
                             <FormControl margin="normal" required fullWidth>
                                 <InputLabel htmlFor="email">Email Address</InputLabel>
